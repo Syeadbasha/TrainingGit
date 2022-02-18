@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-	printf("git learn started");
+	printf("i am trying ");
 	return 0;
 }
