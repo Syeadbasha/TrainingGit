@@ -5,6 +5,6 @@ int main()
 	int b=20;
 	int c;
 	c=a+b;
-	printf("%d",c);
+	printf("c value is =%d",c);
 	return 0;
 }
